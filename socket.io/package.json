@@ -1,0 +1,17 @@
+{
+  "name": "dojo-socketio",
+  "description": "dojo-socketio",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*",
+    "mocha": "*",
+    "chai": "*",
+    "should": "*",
+    "socket.io-client": "*",
+    "nodemon": "*"    
+  },
+  "scripts": {
+  }
+}
